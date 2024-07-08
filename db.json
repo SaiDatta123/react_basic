@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "id": "5d7c",
+      "description": "Salary",
+      "type": "Income",
+      "amount": 35000
+    },
+    {
+      "id": "5920",
+      "description": "Travel",
+      "type": "Expense",
+      "amount": 1200
+    },
+    {
+      "id": "83d3",
+      "description": "Food",
+      "type": "Expense",
+      "amount": 980
+    }
+  ]
+}
